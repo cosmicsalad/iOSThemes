@@ -1,0 +1,9 @@
+Origin: Hammock's Repo
+Label: Hammock's Repo
+Suite: stable
+Version: 1.0
+Codename: Hammock
+Architectures: iphoneos-arm
+Components: main
+Description: Hammock's Themes
+MD5Sum:
